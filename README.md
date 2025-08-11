@@ -41,7 +41,7 @@ Open [http://localhost:3000](http://localhost:3000) to see your app.
 ### 5. Deploy to Vercel
 
 1. Push your code to GitHub
-2. Go to [vercel.com](https://vercel.com) and import your repository
+2. Go to [vercel.com](https://vercel.com) and import your repository.
 3. In your Vercel project settings, add the same environment variables:
    - `NEXT_PUBLIC_SUPABASE_URL`
    - `NEXT_PUBLIC_SUPABASE_ANON_KEY`
